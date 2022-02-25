@@ -1,0 +1,56 @@
+2022-02-13 00:59:22 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 00:59:22 - Started 18492
+2022-02-13 00:59:41 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 00:59:41 - Started 10800
+2022-02-13 10:42:09 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 10:42:09 - Started 18540
+2022-02-13 11:06:38 - Stopping helloworldwithhttp.exe
+2022-02-13 11:06:38 - ProcessKill 18540
+2022-02-13 11:06:38 - Found child process: 15232 Name: conhost.exe
+2022-02-13 11:06:38 - Found child process: 4840 Name: node.exe
+2022-02-13 11:06:38 - Stopping process 15232
+2022-02-13 11:06:38 - Send SIGINT 15232
+2022-02-13 11:06:38 - SIGINT to 15232 failed - Killing as fallback
+2022-02-13 11:06:38 - Stopping process 4840
+2022-02-13 11:06:38 - Send SIGINT 4840
+2022-02-13 11:06:38 - SIGINT to 4840 failed - Killing as fallback
+2022-02-13 11:06:38 - Stopping process 18540
+2022-02-13 11:06:38 - Send SIGINT 18540
+2022-02-13 11:06:38 - SIGINT to 18540 failed - Killing as fallback
+2022-02-13 11:06:38 - Finished helloworldwithhttp.exe
+2022-02-13 11:07:27 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 11:07:27 - Started 22004
+2022-02-13 11:51:41 - Stopping helloworldwithhttp.exe
+2022-02-13 11:51:41 - ProcessKill 22004
+2022-02-13 11:51:42 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-02-13 11:52:19 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 11:52:19 - Started 6380
+2022-02-13 12:33:30 - Stopping helloworldwithhttp.exe
+2022-02-13 12:33:30 - ProcessKill 6380
+2022-02-13 12:33:31 - Found child process: 6400 Name: conhost.exe
+2022-02-13 12:33:31 - Found child process: 7156 Name: node.exe
+2022-02-13 12:33:31 - Stopping process 6400
+2022-02-13 12:33:31 - Send SIGINT 6400
+2022-02-13 12:33:31 - SIGINT to 6400 failed - Killing as fallback
+2022-02-13 12:33:31 - Stopping process 7156
+2022-02-13 12:33:31 - Send SIGINT 7156
+2022-02-13 12:33:31 - SIGINT to 7156 failed - Killing as fallback
+2022-02-13 12:33:31 - Stopping process 6380
+2022-02-13 12:33:31 - Send SIGINT 6380
+2022-02-13 12:33:31 - SIGINT to 6380 failed - Killing as fallback
+2022-02-13 12:33:31 - Finished helloworldwithhttp.exe
+2022-02-13 12:40:03 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 12:40:03 - Started 6464
+2022-02-13 12:41:44 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 12:41:44 - Started 6268

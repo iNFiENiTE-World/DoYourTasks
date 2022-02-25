@@ -1,0 +1,31 @@
+<service>
+	<id>helloworld.exe</id>
+	<name>Hello World</name>
+	<description>Node.js run server automatically!</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\automatic_server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>Hello World wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-VGDTI17</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4</workingdirectory>
+</service>

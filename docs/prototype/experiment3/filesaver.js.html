@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Saving Data using Filesaver.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js" integrity="sha512-csNcFYJniKjJxRWRV1R7fvnXrycHP6qDR21mgz1ZP55xY5d+aHLfo9/FcGDQLfn2IfngbAHd8LdfsagcCqgTcQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+        <title>Filesaver.js Experiment</title>
+    </head>
+    <body>
+        <script>
+            /*
+            1. AIM
+            ✓ Experiment how Filesaver.js works
+
+
+            2. PROBLEM
+            Using Python as the input for the user isn't very convenient because it requires user to open Py file
+            and run it to input data. Thus, we need to find a way to use JS and only JS so input can be done in one
+            place (the Browser). By eliminating Python from the equation, new input and data saving system needs to
+            be implemented.
+
+            
+            3. SOLUTION
+            Filesaver.js might be able do the job. Let's experiment how it works.
+
+
+            4. PROTOTYPE
+            ~1st Prototype
+            See code below
+            */
+            
+            function SaveAsFile(t,f,m) {
+                try {
+                    var b = new Blob([t],{type:m});
+                    saveAs(b, f);
+                } catch (e) {
+                    window.open("data:"+m+"," + encodeURIComponent(t), '_blank','');
+                }
+            }
+    
+            SaveAsFile("text","filename.txt","text/plain;charset=utf-8");
+            
+            /*
+            Result of 1st Prototype shows that Filesaver.js works like a 'Save as' function in Chrome. It downloads
+            the file into the file system, specifically the 'Downloads' folder. We can write data into the
+            file and it will be downloaded to our computer. 
+
+
+            5. ANALYSIS
+            a) Pros
+            Using Filesaver.js, we can write data into a file and the file will be downloaded to our computer in the
+            Downloads folder. This is enough to write a JS file containing the data in JSON format and keep it somewhere
+            inside the computer.
+
+            b) Cons
+            The download path can't be modified. We need to use external language/framework to manage the file and store
+            it where we want to (post-processing). Other than that, this method is not user friendly because the
+            downloaded file will be alerted to the user in Chrome and will create confusion and discomfort to the user or
+            in other word, the layer of abstraction is disturbed.
+
+
+            6. CONCLUSION
+            Filesaver.js can write a file and download it to save inside the computer, but is limited to downloading
+            it in the Downloads directory and can generate unnecessary information that'll ruin the user's experience.
+
+
+            END OF EXPERIMENT
+            */
+        </script>
+    </body>
+</html>

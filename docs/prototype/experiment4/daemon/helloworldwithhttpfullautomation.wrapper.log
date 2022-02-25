@@ -1,0 +1,146 @@
+2022-02-13 12:19:41 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 12:19:41 - Started 10172
+2022-02-13 12:40:03 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 12:40:03 - Started 6452
+2022-02-13 12:40:46 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-13 12:40:46 - ProcessKill 6452
+2022-02-13 12:40:47 - Found child process: 6480 Name: conhost.exe
+2022-02-13 12:40:47 - Found child process: 1868 Name: node.exe
+2022-02-13 12:40:47 - Stopping process 6480
+2022-02-13 12:40:47 - Send SIGINT 6480
+2022-02-13 12:40:47 - SIGINT to 6480 failed - Killing as fallback
+2022-02-13 12:40:47 - Stopping process 1868
+2022-02-13 12:40:47 - Send SIGINT 1868
+2022-02-13 12:40:47 - SIGINT to 1868 failed - Killing as fallback
+2022-02-13 12:40:47 - Stopping process 6452
+2022-02-13 12:40:47 - Send SIGINT 6452
+2022-02-13 12:40:47 - SIGINT to 6452 failed - Killing as fallback
+2022-02-13 12:40:47 - Finished helloworldwithhttpfullautomation.exe
+2022-02-13 12:41:44 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-13 12:41:44 - Started 6264
+2022-02-13 12:42:48 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-13 12:42:48 - ProcessKill 6264
+2022-02-13 12:42:48 - Found child process: 6312 Name: conhost.exe
+2022-02-13 12:42:48 - Found child process: 6308 Name: node.exe
+2022-02-13 12:42:48 - Stopping process 6312
+2022-02-13 12:42:48 - Send SIGINT 6312
+2022-02-13 12:42:48 - SIGINT to 6312 failed - Killing as fallback
+2022-02-13 12:42:48 - Stopping process 6308
+2022-02-13 12:42:48 - Send SIGINT 6308
+2022-02-13 12:42:48 - SIGINT to 6308 failed - Killing as fallback
+2022-02-13 12:42:48 - Stopping process 6264
+2022-02-13 12:42:48 - Send SIGINT 6264
+2022-02-13 12:42:48 - SIGINT to 6264 failed - Killing as fallback
+2022-02-13 12:42:48 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 16:54:46 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 16:54:46 - Started 7228
+2022-02-14 16:58:04 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 16:58:04 - ProcessKill 7228
+2022-02-14 16:58:04 - Found child process: 5128 Name: conhost.exe
+2022-02-14 16:58:04 - Found child process: 8 Name: node.exe
+2022-02-14 16:58:04 - Stopping process 5128
+2022-02-14 16:58:04 - Send SIGINT 5128
+2022-02-14 16:58:04 - SIGINT to 5128 failed - Killing as fallback
+2022-02-14 16:58:04 - Stopping process 8
+2022-02-14 16:58:04 - Send SIGINT 8
+2022-02-14 16:58:04 - SIGINT to 8 failed - Killing as fallback
+2022-02-14 16:58:04 - Stopping process 7228
+2022-02-14 16:58:04 - Send SIGINT 7228
+2022-02-14 16:58:04 - SIGINT to 7228 failed - Killing as fallback
+2022-02-14 16:58:04 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 16:58:05 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 16:58:05 - Started 15380
+2022-02-14 20:26:32 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 20:26:32 - ProcessKill 15380
+2022-02-14 20:26:32 - Found child process: 15232 Name: conhost.exe
+2022-02-14 20:26:32 - Found child process: 5612 Name: node.exe
+2022-02-14 20:26:32 - Stopping process 15232
+2022-02-14 20:26:32 - Send SIGINT 15232
+2022-02-14 20:26:32 - SIGINT to 15232 failed - Killing as fallback
+2022-02-14 20:26:32 - Stopping process 5612
+2022-02-14 20:26:32 - Send SIGINT 5612
+2022-02-14 20:26:32 - SIGINT to 5612 failed - Killing as fallback
+2022-02-14 20:26:32 - Stopping process 15380
+2022-02-14 20:26:32 - Send SIGINT 15380
+2022-02-14 20:26:32 - SIGINT to 15380 failed - Killing as fallback
+2022-02-14 20:26:32 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 20:26:33 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 20:26:33 - Started 21204
+2022-02-14 20:26:51 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 20:26:51 - ProcessKill 21204
+2022-02-14 20:26:51 - Found child process: 12604 Name: conhost.exe
+2022-02-14 20:26:51 - Found child process: 18828 Name: node.exe
+2022-02-14 20:26:51 - Stopping process 12604
+2022-02-14 20:26:51 - Send SIGINT 12604
+2022-02-14 20:26:51 - SIGINT to 12604 failed - Killing as fallback
+2022-02-14 20:26:51 - Stopping process 18828
+2022-02-14 20:26:51 - Send SIGINT 18828
+2022-02-14 20:26:51 - SIGINT to 18828 failed - Killing as fallback
+2022-02-14 20:26:51 - Stopping process 21204
+2022-02-14 20:26:51 - Send SIGINT 21204
+2022-02-14 20:26:51 - SIGINT to 21204 failed - Killing as fallback
+2022-02-14 20:26:51 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 20:26:53 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 20:26:53 - Started 3144
+2022-02-14 20:27:56 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 20:27:56 - ProcessKill 3144
+2022-02-14 20:27:56 - Found child process: 12396 Name: conhost.exe
+2022-02-14 20:27:56 - Found child process: 11828 Name: node.exe
+2022-02-14 20:27:56 - Stopping process 12396
+2022-02-14 20:27:56 - Send SIGINT 12396
+2022-02-14 20:27:56 - SIGINT to 12396 failed - Killing as fallback
+2022-02-14 20:27:56 - Stopping process 11828
+2022-02-14 20:27:56 - Send SIGINT 11828
+2022-02-14 20:27:56 - SIGINT to 11828 failed - Killing as fallback
+2022-02-14 20:27:56 - Stopping process 3144
+2022-02-14 20:27:56 - Send SIGINT 3144
+2022-02-14 20:27:56 - SIGINT to 3144 failed - Killing as fallback
+2022-02-14 20:27:56 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 20:27:58 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 20:27:58 - Started 20472
+2022-02-14 20:28:29 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 20:28:29 - ProcessKill 20472
+2022-02-14 20:28:29 - Found child process: 14172 Name: conhost.exe
+2022-02-14 20:28:29 - Found child process: 18440 Name: node.exe
+2022-02-14 20:28:29 - Stopping process 14172
+2022-02-14 20:28:30 - Send SIGINT 14172
+2022-02-14 20:28:30 - SIGINT to 14172 failed - Killing as fallback
+2022-02-14 20:28:30 - Stopping process 18440
+2022-02-14 20:28:30 - Send SIGINT 18440
+2022-02-14 20:28:30 - SIGINT to 18440 failed - Killing as fallback
+2022-02-14 20:28:30 - Stopping process 20472
+2022-02-14 20:28:30 - Send SIGINT 20472
+2022-02-14 20:28:30 - SIGINT to 20472 failed - Killing as fallback
+2022-02-14 20:28:30 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 20:28:31 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 20:28:31 - Started 9060
+2022-02-14 20:31:22 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 20:31:22 - ProcessKill 9060
+2022-02-14 20:31:22 - Found child process: 20996 Name: conhost.exe
+2022-02-14 20:31:22 - Found child process: 21288 Name: node.exe
+2022-02-14 20:31:22 - Stopping process 20996
+2022-02-14 20:31:22 - Send SIGINT 20996
+2022-02-14 20:31:22 - SIGINT to 20996 failed - Killing as fallback
+2022-02-14 20:31:22 - Stopping process 21288
+2022-02-14 20:31:22 - Send SIGINT 21288
+2022-02-14 20:31:22 - SIGINT to 21288 failed - Killing as fallback
+2022-02-14 20:31:22 - Stopping process 9060
+2022-02-14 20:31:22 - Send SIGINT 9060
+2022-02-14 20:31:22 - SIGINT to 9060 failed - Killing as fallback
+2022-02-14 20:31:22 - Finished helloworldwithhttpfullautomation.exe
+2022-02-14 20:31:23 - Starting C:\Program Files\nodejs\node.exe  --harmony E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\node_modules\node-windows\lib\wrapper.js --file E:\iNFiENiTE\PROJEK\Sendiri\JSPY\DoYourTask\prototype\experiment4\http.js --scriptoptions= --log "Hello World with HTTP Full Automation wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-14 20:31:23 - Started 8316
+2022-02-14 22:21:36 - Stopping helloworldwithhttpfullautomation.exe
+2022-02-14 22:21:36 - ProcessKill 8316
+2022-02-14 22:21:36 - Found child process: 13544 Name: conhost.exe
+2022-02-14 22:21:36 - Found child process: 13800 Name: node.exe
+2022-02-14 22:21:36 - Stopping process 13544
+2022-02-14 22:21:36 - Send SIGINT 13544
+2022-02-14 22:21:36 - SIGINT to 13544 failed - Killing as fallback
+2022-02-14 22:21:36 - Stopping process 13800
+2022-02-14 22:21:36 - Send SIGINT 13800
+2022-02-14 22:21:36 - SIGINT to 13800 failed - Killing as fallback
+2022-02-14 22:21:36 - Stopping process 8316
+2022-02-14 22:21:36 - Send SIGINT 8316
+2022-02-14 22:21:36 - SIGINT to 8316 failed - Killing as fallback
+2022-02-14 22:21:36 - Finished helloworldwithhttpfullautomation.exe

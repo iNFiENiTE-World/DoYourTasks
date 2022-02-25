@@ -1,0 +1,1 @@
+const data = {"task1": "do homework", "task2": "do the laundry", "task3": "learn JS"}
