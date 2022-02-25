@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table {
+                border: 1px solid;
+                border-collapse: collapse;
+            }
+
+            th {
+                width: 100%;
+                border-bottom: 1px solid;
+                text-align: left;
+            }
+        </style>
+
+        <script src="../api.js"></script>
+
+        <title>Register New Task</title>
+    </head>
+    <body onload="DisplayTaskEditorTable()">
+
+        <table id="daily_tasks">
+            <tr>
+                <th>Daily Tasks</th>
+                <th></th>
+            </tr>
+        </table>
+        <table id="today_tasks">
+            <tr>
+                <th>Today Tasks</th>
+                <th></th>
+            </tr>
+        </table>
+        <br><a href="/">Back</a>
+
+        <h3>Task Registration</h3>
+        <textarea id="task_name"></textarea>
+        <select id="task_type">
+            <option value="daily_tasks">Daily task</option>
+            <option value="today_tasks">Today task</option>
+        </select>
+        <br>
+        <button id="create" onclick="submit()">Register</button>
+    </body>
+</html>
