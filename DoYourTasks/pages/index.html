@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Do Your Tasks</title>
+
+        <style>
+            table {
+                border: 1px solid;
+                border-collapse: collapse;
+            }
+
+            th {
+                width: 100%;
+                border-bottom: 1px solid;
+                text-align: left;
+            }
+        </style>
+
+        <script src="../api.js"></script>
+
+    </head>
+    <body onload="DisplayTaskTable()">
+        <table id="daily_tasks">
+            <tr>
+                <th>Daily Tasks</th>
+                <th>Completed</th>
+            </tr>
+        </table>
+        <table id="today_tasks">
+            <tr>
+                <th>Today Tasks</th>
+                <th>Completed</th>
+            </tr>
+        </table>
+        <br>
+        <a href="/manage_tasks">Register new task</a>
+    </body>
+</html>
